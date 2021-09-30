@@ -33,12 +33,12 @@ An Telegram Bot By [@AsmSafone](https://t.me/AsmSafone) To Stream Videos in Tele
 
 ## Commands (Set In Botfather)
 ```sh
-start - Start The Bot
-help - Show Help Message
-play - Start Audio Streaming
-stream - Start Video Streaming
-pause - Pause The Current Stream
-resume - Resume The Paused Stream
+Başlat - Start The Bot
+Yardım - Show Help Message
+Bul - Start Audio Streaming
+Hayır- Start Video Streaming
+Durdur - Pause The Current Stream
+Devam- Resume The Paused Stream
 endstream - Stop Streaming & Left VC
 ```
 
